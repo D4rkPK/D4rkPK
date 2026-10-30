@@ -4,7 +4,7 @@
     alt="Typing SVG" 
   />
   <img
-    src="https://top-mmo.fr/wp-content/uploads/2022/07/giphy-obiwan-2.gif"
+    src="https://lumiere-a.akamaihd.net/v1/images/image_24de51ea.gif"
     width="80"
   />
 </h1>
